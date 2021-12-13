@@ -1,0 +1,11 @@
+numpy
+pandas
+sklearn
+matplotlib
+seaborn
+scipy
+pyclustering
+scikit-learn
+scikit-learn-extra
+clusteval
+textdistance
